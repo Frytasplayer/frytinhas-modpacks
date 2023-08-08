@@ -14,15 +14,15 @@
     "renderOrder": 0.0,
     "color": 13.0,
     "displayNameWhenIconFails": true,
-    "entityNumber": 0.0,
+    "entityNumber": 1000.0,
     "alwaysDisplayNametags": false,
     "dotSize": 2.0,
     "startFadingAt": 0.0,
     "displayY": false,
     "renderOverMinimapFrame": 1.0,
     "icons": 1.0,
+    "heightLimit": 20.0,
     "names": 1.0,
-    "heightLimit": 2050.0,
     "iconScale": 1.0
   },
   "subCategories": [
@@ -89,27 +89,9 @@
           "name": "gui.xaero_entity_category_hostile",
           "protection": true,
           "settingOverrides": {
-            "renderOrder": 3.0,
-            "icons": 0.0
+            "renderOrder": 3.0
           },
           "subCategories": [
-            {
-              "hardInclude": "nothing",
-              "includeList": [
-                "minecraft:enderman"
-              ],
-              "includeListInSuperCategory": true,
-              "excludeMode": "ONLY",
-              "excludeList": [],
-              "name": "Hostile Important",
-              "protection": false,
-              "settingOverrides": {
-                "alwaysDisplayNametags": false,
-                "displayY": true,
-                "icons": 2.0
-              },
-              "subCategories": []
-            },
             {
               "hardInclude": "tamed",
               "includeList": [],

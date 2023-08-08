@@ -135,14 +135,6 @@
     {
       "item": "cyclicmagic:crystallized_amber|0",
       "emc": 227
-    },
-    {
-      "item": "fluxnetworks:flux|0",
-      "emc": 64
-    },
-    {
-      "item": "draconicevolution:reactor_core|0",
-      "emc": 0
     }
   ]
 }
