@@ -11,11 +11,11 @@ updateNotification:false
 minimap:true
 caveMaps:2
 caveZoom:1
-showWaypoints:true
+showWaypoints:false
 showIngameWaypoints:true
 displayRedstone:true
 deathpoints:true
-oldDeathpoints:true
+oldDeathpoints:false
 distance:1
 lockNorth:false
 zoom:1
