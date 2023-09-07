@@ -135,6 +135,10 @@
     {
       "item": "cyclicmagic:crystallized_amber|0",
       "emc": 227
+    },
+    {
+      "item": "enderstorage:ender_storage|0",
+      "emc": 7408
     }
   ]
 }
