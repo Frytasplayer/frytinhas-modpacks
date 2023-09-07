@@ -1,5 +1,5 @@
-ignoreUpdate:162
-updateNotification:false
+ignoreUpdate:0
+updateNotification:true
 differentiateByServerAddress:true
 caveMapsAllowed:true
 debug:false
@@ -43,4 +43,8 @@ caveModeToggleTimer:1000
 defaultCaveModeType:1
 biomeBlending:true
 trackedPlayers:true
+multipleImagesExport:false
+nightExport:false
+highlightsExport:false
+exportScaleDownSquare:20
 globalVersion:1

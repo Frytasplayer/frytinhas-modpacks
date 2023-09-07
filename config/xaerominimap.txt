@@ -1,5 +1,5 @@
 #CONFIG ONLY OPTIONS
-ignoreUpdate:359
+ignoreUpdate:0
 settingsButton:false
 allowWrongWorldTeleportation:false
 differentiateByServerAddress:true
@@ -7,19 +7,19 @@ debugEntityIcons:false
 debugEntityVariantIds:false
 radarHideInvisibleEntities:true
 #INGAME SETTINGS (DO NOT EDIT!)
-updateNotification:false
+updateNotification:true
 minimap:true
 caveMaps:2
 caveZoom:1
-showWaypoints:false
+showWaypoints:true
 showIngameWaypoints:true
 displayRedstone:true
 deathpoints:true
-oldDeathpoints:false
+oldDeathpoints:true
 distance:1
 lockNorth:false
-zoom:1
-minimapSize:76
+zoom:0
+minimapSize:115
 chunkGrid:-1
 slimeChunks:false
 mapSafeMode:false
