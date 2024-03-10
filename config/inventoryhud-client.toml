@@ -45,7 +45,7 @@
 	#Show/Hide armor
 	showMain = true
 	#Show/Hide armor
-	showArrows = true
+	showArrows = false
 
 #Settings for Potions HUD
 [potionshud]

@@ -14,7 +14,7 @@
 
 	[client.tweaks]
 		#This prevents the last torch in the offhand from being placed.
-		doNotUseLastTorch = false
+		doNotUseLastTorch = true
 		#This prevents torches from being placed from your offhand at all.
 		noOffhandTorchAtAll = false
 		#This restricts torches to be placed from the offhand only when you're holding a tool in your main hand.
