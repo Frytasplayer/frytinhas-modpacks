@@ -6,8 +6,8 @@ ofSmoothFps:false
 ofSmoothWorld:true
 ofAoLevel:1.0
 ofClouds:0
-ofCloudsHeight:0.0
-ofTrees:4
+ofCloudsHeight:1.0
+ofTrees:2
 ofDroppedItems:0
 ofRain:1
 ofAnimatedWater:0
@@ -64,7 +64,7 @@ ofCustomEntityModels:true
 ofCustomGuis:true
 ofShowGlErrors:false
 ofFastMath:true
-ofFastRender:true
+ofFastRender:false
 ofTranslucentBlocks:0
 ofChatBackground:0
 ofChatShadow:true

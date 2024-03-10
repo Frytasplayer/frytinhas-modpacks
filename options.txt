@@ -23,7 +23,7 @@ fov:1.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:0.5070422291755676
-renderDistance:12
+renderDistance:16
 entityDistanceScaling:1.0
 guiScale:2
 particles:1
@@ -64,7 +64,7 @@ rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 syncChunkWrites:true
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
@@ -74,9 +74,9 @@ key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
 key_key.sneak:key.keyboard.left.shift
-key_key.sprint:key.keyboard.left.control
+key_key.sprint:key.keyboard.e
 key_key.drop:key.keyboard.q
-key_key.inventory:key.keyboard.e
+key_key.inventory:key.mouse.4
 key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.tab
 key_key.pickItem:key.mouse.middle
@@ -112,10 +112,20 @@ key_key.tac.more_info_hold:key.keyboard.left.shift
 key_tetra.toolbelt.binding.access:key.keyboard.b
 key_tetra.toolbelt.binding.restock:key.keyboard.b:SHIFT
 key_tetra.toolbelt.binding.open:key.keyboard.b:ALT
+key_CharacterScreen:key.keyboard.f12
+key_MPM 1:key.keyboard.unknown
+key_MPM 2:key.keyboard.unknown
+key_MPM 3:key.keyboard.unknown
+key_MPM 4:key.keyboard.unknown
+key_MPM 5:key.keyboard.unknown
+key_MPM Camera:key.keyboard.left.control
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.tconstruct.helmet_interact:key.keyboard.backspace
 key_key.tconstruct.leggings_interact:key.keyboard.i
+key_key.cgm.reload:key.keyboard.r
+key_key.cgm.unload:key.keyboard.u
+key_key.cgm.attachments:key.keyboard.c
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
@@ -123,12 +133,9 @@ key_key.disable_voice_chat:key.keyboard.n
 key_key.hide_icons:key.keyboard.h
 key_key.voice_chat:key.keyboard.v:CONTROL
 key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.g
+key_key.voice_chat_group:key.keyboard.g:CONTROL
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_key.cgm.reload:key.keyboard.r
-key_key.cgm.unload:key.keyboard.u
-key_key.cgm.attachments:key.keyboard.c
 key_key.inventoryhud.toggle:key.keyboard.unknown
 key_key.inventoryhud.openconfig:key.keyboard.o
 key_key.inventoryhud.togglepot:key.keyboard.unknown
@@ -137,15 +144,15 @@ key_key.inventoryhud.toggleall:key.keyboard.unknown
 key_key.vehicle.horn:key.keyboard.h
 key_key.vehicle.cycle_seats:key.keyboard.right.control
 key_walljump.key.walljump:key.keyboard.left.shift
-key_fpsreducer.key.openGui:key.keyboard.end
-key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_key.securitycraft.cameraZoomIn:key.keyboard.equal
 key_key.securitycraft.cameraZoomOut:key.keyboard.minus
 key_key.securitycraft.cameraEmitRedstone:key.keyboard.backspace
 key_key.securitycraft.cameraActivateNightVision:key.keyboard.n
-key_key.carry.desc:key.keyboard.left.shift
+key_fpsreducer.key.openGui:key.keyboard.end
+key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_sndctrl.text.quickvolumemenu.open:key.keyboard.v:CONTROL
 key_sndctrl.text.soundconfig.open:key.keyboard.i:CONTROL
+key_key.carry.desc:key.keyboard.left.shift
 key_key.corpse.death_history:key.keyboard.u
 key_key.configured.open_mod_list:key.keyboard.backslash
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
@@ -161,8 +168,8 @@ key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.bookmark:key.keyboard.a
 key_key.jei.toggleBookmarkOverlay:key.keyboard.unknown
-soundCategory_master:0.2615894
-soundCategory_music:0.0
+soundCategory_master:0.102649
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
