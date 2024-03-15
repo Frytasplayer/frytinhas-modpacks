@@ -27,7 +27,7 @@
 		#Range: 0.0 ~ 1.0
 		swaySensitivity = 0.3
 		#The custom crosshair to use for weapons. Go to (Options > Controls > Mouse Settings > Crosshair) in game to change this!
-		crosshair = "minecraft:default"
+		crosshair = "cgm:dot"
 		#When Camera Roll Effect is enabled, this is the absolute maximum angle the roll on the camera can approach.
 		#Range: 0.0 ~ 45.0
 		cameraRollAngle = 1.5

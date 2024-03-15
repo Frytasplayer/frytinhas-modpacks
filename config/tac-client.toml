@@ -7,7 +7,7 @@
 		holdToAim = true
 		#A value to multiple the mouse sensitivity by when aiming down weapon sights. Go to (Options > Controls > Mouse Settings > ADS Sensitivity) in game to change this!
 		#Range: 0.0 ~ 2.0
-		aimDownSightSensitivity = 1.0
+		aimDownSightSensitivity = 1.149999976158142
 		#Press to use a burst fire a gun, if false, burst will become semi shoot
 		burstPress = true
 
@@ -79,7 +79,7 @@
 		#Attempt to show bullet trails from your own gun, currently ALPHA, doesn't map to the barrel of weapons and maybe distracting.
 		showFirstPersonBulletTrails = false
 		#The custom crosshair to use for weapons. Go to (Options > Controls > Mouse Settings > Crosshair) in game to change this!
-		crosshair = "minecraft:default"
+		crosshair = "tac:dot"
 		#Choose to see any bullet trails, trails by you or any other player / bot will not appear. Helps with Shader compatability.
 		showBulletTrails = true
 		#True if you want hitmarkers to appear, both in hipfire and optics when hitting an entity.
@@ -109,7 +109,7 @@
 		#Range: 0.0 ~ 1.0
 		bulletHoleFadeThreshold = 0.98
 		#If true, blood will will spawn from entities that are hit from a projectile
-		enableBlood = false
+		enableBlood = true
 
 	#Properties relating to improving graphical performance (Currently unsupported, do not attempt to change these settings until announcements are made about these features!)
 	[client.quality]

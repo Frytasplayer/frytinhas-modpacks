@@ -90,7 +90,7 @@
 	#Properties relating to projectile spread
 	[common.projectile_spread]
 		#Weapon grows more inaccurate depending if the player is in motion (Forward, Strafing, Jumping)
-		movementInaccuracy = true
+		movementInaccuracy = false
 
 	#Properties relating to gameplay
 	[common.gameplay]
@@ -104,7 +104,7 @@
 		enableGunGriefing = true
 		#The value to multiply the damage by if projectile hit the players head
 		#Range: 1.0 ~ 1.7976931348623157E308
-		headShotDamageMultiplier = 1.3
+		headShotDamageMultiplier = 1.9
 		#If true, improves the accuracy of weapons by considering the ping of the player. This has no affect on singleplayer. This will add a little overhead if enabled.
 		improvedHitboxes = true
 		#True if you want to see the laser beam from a third-person perspective.
@@ -140,10 +140,10 @@
 		#Range: 0.0 ~ 1.0
 		growBoundingBoxAmountV2 = 0.0
 		#All weapons have a percentage of damage applied, no matter the class match up, false means blunt damage is never applied before armor calc.
-		armorBluntDamage = false
+		armorBluntDamage = true
 		#The value to multiply the damage by if projectile is a critical hit
 		#Range: 1.0 ~ 1.7976931348623157E308
-		criticalDamageMultiplier = 1.3
+		criticalDamageMultiplier = 1.75
 		#Sets the strength of knockback when shot by a bullet projectile. Knockback must be enabled for this to take effect. If value is equal to zero, knockback will use default minecraft value
 		#Range: 0.0 ~ 1.0
 		knockbackStrength = 0.15
