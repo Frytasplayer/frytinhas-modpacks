@@ -1,5 +1,5 @@
 #Sun Mar 10 15:43:50 BRT 2024
-shaderPack=ComplementaryUnbound_r5.1.1.zip
+shaderPack=
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
