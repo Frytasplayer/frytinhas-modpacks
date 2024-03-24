@@ -158,10 +158,10 @@ key_key.waila.show_uses:key.keyboard.keypad.4
 key_bloodmagic.keybind.cycle_holding_pos:key.keyboard.unknown
 key_bloodmagic.keybind.cycle_holding_neg:key.keyboard.unknown
 key_key.carry.desc:key.keyboard.left.shift
-key_key.ars_nouveau.open_book:key.keyboard.unknown
+key_key.ars_nouveau.open_book:key.keyboard.c
 key_key.ars_nouveau.selection_hud:key.keyboard.v
-key_key.ars_nouveau.previous_slot:key.keyboard.c
-key_key.ars_nouveau.next_slot:key.keyboard.x
+key_key.ars_nouveau.previous_slot:key.keyboard.unknown
+key_key.ars_nouveau.next_slot:key.keyboard.unknown
 key_key.ars_nouveau.qc1:key.keyboard.unknown
 key_key.ars_nouveau.qc2:key.keyboard.unknown
 key_key.ars_nouveau.qc3:key.keyboard.unknown
