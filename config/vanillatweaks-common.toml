@@ -12,7 +12,7 @@
 		#Want to identity slime chunks in-game?
 		enableSlimeBucket = true
 		#Want a less effective but throwable TNT?
-		enableDynamite = true
+		enableDynamite = false
 		#Cooldown for the dynamite in ticks
 		#Range: > 0
 		dynamiteCooldown = 20
