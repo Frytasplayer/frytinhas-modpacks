@@ -19,7 +19,7 @@
 	#This prevents torches from being placed from your off hand if you have an empty main hand.
 	noOffhandTorchWithEmptyHand = false
 	#This restricts torches to be placed from the offhand only when you're holding a tool in your main hand.
-	offhandTorchWithToolOnly = false
+	offhandTorchWithToolOnly = true
 	#This option will disable step assist added by other mods.
 	disableStepAssist = true
 	#This option will disable log stripping.
@@ -35,7 +35,7 @@
 
 [customization]
 	#Items that count as torches for the offhand-torch tweak options.
-	torchItems = ["minecraft:torch", "minecraft:soul_torch", "tconstruct:stone_torch"]
+	torchItems = ["minecraft:torch", "minecraft:soul_torch", "tconstruct:stone_torch", "ars_nouveau:novice_spell_book"]
 	#Items that are allowed to place torches from the offhand if offhandTorchWithToolOnly is enabled.
 	torchTools = ["minecraft:wooden_pickaxe", "minecraft:stone_pickaxe", "minecraft:iron_pickaxe", "minecraft:golden_pickaxe", "minecraft:diamond_pickaxe", "minecraft:netherite_pickaxe", "tconstruct:pickaxe", "tconstruct:hammer"]
 	#Items that count as weapons for the offhand-shield hiding tweak options.

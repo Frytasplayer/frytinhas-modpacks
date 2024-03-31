@@ -10,7 +10,7 @@
   "forge:ingots/signalum": "thermal:signalum_ingot",
   "forge:ingots/bronze": "thermal:bronze_ingot",
   "forge:ingots/invar": "thermal:invar_ingot",
-  "forge:ingots/graphite": "null",
+  "forge:ingots/graphite": "bigreactors:graphite_ingot",
   "forge:ingots/zinc": "create:zinc_ingot",
   "forge:ingots/lead": "thermal:lead_ingot",
   "forge:gems/sapphire": "iceandfire:sapphire_gem",
