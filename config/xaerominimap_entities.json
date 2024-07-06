@@ -16,13 +16,13 @@
     "renderOrder": 0.0,
     "color": 13.0,
     "displayNameWhenIconFails": true,
-    "entityNumber": 0.0,
+    "entityNumber": 1000.0,
     "alwaysDisplayNametags": false,
     "dotSize": 2.0,
     "startFadingAt": 0.0,
     "renderOverMinimapFrame": 1.0,
     "icons": 1.0,
-    "names": 1.0,
+    "names": 0.0,
     "heightLimit": 20.0,
     "iconScale": 1.0
   },
@@ -119,22 +119,6 @@
           },
           "subCategories": [
             {
-              "hardInclude": "nothing",
-              "includeList": [
-                "minecraft:ghast"
-              ],
-              "includeListInSuperCategory": true,
-              "excludeMode": "ONLY",
-              "excludeList": [],
-              "name": "Custom",
-              "protection": false,
-              "settingOverrides": {
-                "names": 2.0,
-                "icons": 2.0
-              },
-              "subCategories": []
-            },
-            {
               "hardInclude": "tamed",
               "includeList": [],
               "includeListInSuperCategory": true,
@@ -159,27 +143,6 @@
           "protection": true,
           "settingOverrides": {},
           "subCategories": [
-            {
-              "hardInclude": "nothing",
-              "includeList": [
-                "minecraft:bee",
-                "minecraft:cow",
-                "minecraft:glow_squid",
-                "minecraft:rabbit",
-                "minecraft:squid",
-                "minecraft:villager"
-              ],
-              "includeListInSuperCategory": true,
-              "excludeMode": "ONLY",
-              "excludeList": [],
-              "name": "Custom",
-              "protection": false,
-              "settingOverrides": {
-                "names": 2.0,
-                "icons": 2.0
-              },
-              "subCategories": []
-            },
             {
               "hardInclude": "tamed",
               "includeList": [],

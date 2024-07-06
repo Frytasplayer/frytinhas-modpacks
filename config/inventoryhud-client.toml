@@ -31,12 +31,12 @@
 	#Show/Hide armor
 	showOff = true
 	#Show/Hide armor
-	showArrows = false
+	showArrows = true
 	#Show/Hide armor
 	showInv = true
 	#Armor HUD durability view (PERCENTAGE, DAMAGE, DAMAGE LEFT)
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT, OFF
-	armView = "PERCENTAGE"
+	armView = "OFF"
 	#Show item durability bar
 	armBars = false
 	#Move all items at once or each one
@@ -217,7 +217,7 @@
 #Notification settings
 [notification]
 	#Last notified mod version
-	lastNotifiedVersion = "2.1.12-1.18.2"
+	lastNotifiedVersion = "11.6.2"
 	#Notify more than once
 	keepNotifying = true
 
