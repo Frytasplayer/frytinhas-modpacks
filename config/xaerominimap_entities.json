@@ -22,8 +22,8 @@
     "startFadingAt": 0.0,
     "renderOverMinimapFrame": 1.0,
     "icons": 1.0,
-    "names": 0.0,
     "heightLimit": 20.0,
+    "names": 1.0,
     "iconScale": 1.0
   },
   "subCategories": [
@@ -118,6 +118,24 @@
             "renderOrder": 3.0
           },
           "subCategories": [
+            {
+              "hardInclude": "nothing",
+              "includeList": [
+                "minecraft:wither_skeleton"
+              ],
+              "includeListInSuperCategory": true,
+              "excludeMode": "ONLY",
+              "excludeList": [],
+              "name": "Custom",
+              "protection": false,
+              "settingOverrides": {
+                "displayed": true,
+                "heightBasedFade": true,
+                "names": 2.0,
+                "icons": 2.0
+              },
+              "subCategories": []
+            },
             {
               "hardInclude": "tamed",
               "includeList": [],

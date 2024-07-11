@@ -66,6 +66,9 @@
   "mysticalagradditions": {
     "infused_farmland": true
   },
+  "immersiveengineering": {
+    "multiblock_icon": true
+  },
   "twilightforest": {
     "quest_ram_wool": true
   },

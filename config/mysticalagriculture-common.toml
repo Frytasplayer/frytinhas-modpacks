@@ -32,7 +32,7 @@
 	fertilizedEssenceChance = 0.1
 	#The percentage chance that a passive or hostile mob will drop an Inferium Essence when killed.
 	#Range: 0.0 ~ 1.0
-	inferiumDropChance = 0.2
+	inferiumDropChance = 0.4
 
 #World generation options.
 [World]

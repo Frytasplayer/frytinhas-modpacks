@@ -20,11 +20,11 @@
 		#Lower this if your server's players are building ginormous Reactors.
 		#Bigger Y sizes have far less performance impact than X/Z sizes.
 		#Range: 3 ~ 256
-		maxReactorHeight = 48
+		maxReactorHeight = 256
 		#The maximum valid size of a Reactor in the X/Z plane, in blocks.
 		#Lower this if your server's players are building ginormous Reactors.
 		#Range: 3 ~ 256
-		maxReactorSize = 32
+		maxReactorSize = 256
 		#A multiplier for balancing Reactor power production. Stacks with powerProductionMultiplier.
 		#Range: 0.5 ~ 100.0
 		reactorPowerProductionMultiplier = 1.0
@@ -116,7 +116,7 @@
 		#Range: 1 ~ 16
 		anglesiteOrePerCluster = 5
 		#Enable generation of Benitoite Ore.
-		benitoiteOreEnableWorldGen = true
+		benitoiteOreEnableWorldGen = false
 		#Maximum number of Benitoite Ore clusters per chunk.
 		#Range: 1 ~ 16
 		benitoiteOreMaxClustersPerChunk = 2
