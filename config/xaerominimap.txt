@@ -13,12 +13,12 @@ minimap:true
 caveMaps:2
 caveZoom:1
 showWaypoints:true
-showIngameWaypoints:false
+showIngameWaypoints:true
 displayRedstone:true
 deathpoints:true
 oldDeathpoints:false
 distance:1
-lockNorth:false
+lockNorth:true
 zoom:0
 minimapSize:0
 chunkGrid:-1
