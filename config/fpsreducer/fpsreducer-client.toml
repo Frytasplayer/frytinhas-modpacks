@@ -28,21 +28,21 @@
 	suppressSound = true
 	#Suppression master volume ratio in inactive (0-100).
 	#Range: 0 ~ 100
-	suppressedVolume = 20
+	suppressedVolume = 10
 	#Enable HUD.
-	hudEnabled = false
+	hudEnabled = true
 	#Reference position of HUD.
 	#Range: 1 ~ 8
-	hudReferencePos = 3
+	hudReferencePos = 1
 	#HUD scale (default: 1.0)
 	#Range: 0.1 ~ 2.0
-	hudScale = 1.0
+	hudScale = 0.5
 	#Behavior of HUD display when a chat window opened. (0:keep to display, 1:off, 2:dodge a chat box)
 	#Range: 0 ~ 2
 	hudBehindChatBox = 2
 	#HUD information (1:FPS/CPU(long), 2:FPS/CPU(short), 3:FPS/CPU(2lines), 4:FPS only, 5:CPU only, 6:Simple)
 	#Range: 0 ~ 6
-	hudInfo = 4
+	hudInfo = 3
 	#Profile (0:custom, 1:modest-eco, 2:eco, 3:cooling-low, 4:cooling-high)
 	#Range: 0 ~ 4
 	profile = 0
@@ -58,9 +58,9 @@
 	#Range: > -2147483648
 	topCenter_Y = 2
 	#Range: > -2147483648
-	topRight_X = -2
+	topRight_X = -907
 	#Range: > -2147483648
-	topRight_Y = 2
+	topRight_Y = 7
 	#Range: > -2147483648
 	centerRight_X = -2
 	#Range: > -2147483648

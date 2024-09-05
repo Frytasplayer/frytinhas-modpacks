@@ -1,14 +1,14 @@
-ignoreUpdate:0
+ignoreUpdate:179
 updateNotification:true
 allowInternetAccess:true
 differentiateByServerAddress:true
 caveMapsAllowed:true
 debug:false
-lighting:true
+lighting:false
 colours:0
 loadChunks:true
 updateChunks:true
-terrainSlopes:2
+terrainSlopes:3
 terrainDepth:true
 footsteps:true
 flowers:true

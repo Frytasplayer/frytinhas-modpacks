@@ -28,7 +28,7 @@ minimapOpacity:100.0
 waypointsIngameIconScale:1
 waypointsIngameDistanceScale:0
 waypointsIngameNameScale:0
-waypointsIngameCloseScale:1.0000000149011612
+waypointsIngameCloseScale:0.2500000037252903
 antiAliasing:true
 blockColours:0
 lighting:true

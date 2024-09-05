@@ -43,6 +43,24 @@
       },
       "subCategories": [
         {
+          "hardInclude": "nothing",
+          "includeList": [
+            "minecraft:axolotl"
+          ],
+          "includeListInSuperCategory": true,
+          "excludeMode": "ONLY",
+          "excludeList": [],
+          "name": "Sim",
+          "protection": false,
+          "settingOverrides": {
+            "displayHeight": 1.0,
+            "heightBasedFade": true,
+            "names": 2.0,
+            "icons": 2.0
+          },
+          "subCategories": []
+        },
+        {
           "hardInclude": "players",
           "includeList": [],
           "includeListInSuperCategory": true,
