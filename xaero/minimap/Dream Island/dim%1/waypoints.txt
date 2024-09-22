@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Dargao:D:-28:60:0:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:End city:E:-2131:61:63:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:lp:L:-969:61:-1476:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Portal:P:577:58:-821:6:false:0:gui.xaero_default:false:0:0:false

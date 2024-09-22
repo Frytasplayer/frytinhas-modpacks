@@ -1,0 +1,11 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Endermano:E:242:51:1:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Portal 2:P:-822:60:-598:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:digital fodase:D:-96:61:-1255:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Shulker:S:88:60:-1212:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:UP:U:1067:61:-2034:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:End city:E:-321:58:-988:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:Dargao:D:13:62:-33:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:gui.xaero_deathpoint_old:D:238:-164:-7:0:false:2:gui.xaero_default:false:0:1:true

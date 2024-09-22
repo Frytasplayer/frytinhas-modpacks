@@ -1,0 +1,17 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:gui.xaero_deathpoint:D:-947:68:443:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:Casa:C:-932:75:431:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Fabrica:F:655:80:199:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:ars nouveau:A:-957:72:-698:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:acampamento:A:-1075:95:80:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Stronghold:S:-853:-31:1147:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:agua da lilith:A:-2465:-55:1018:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ancient factory:A:-1496:-27:487:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ancient City:A:24:-51:69:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Templo:T:-719:61:-256:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:abroba:A:1751:71:1993:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Melao:M:926:79:1773:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:pica:P:-36:88:2:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Spawn:S:14:91:6:4:false:0:gui.xaero_default:false:0:0:false

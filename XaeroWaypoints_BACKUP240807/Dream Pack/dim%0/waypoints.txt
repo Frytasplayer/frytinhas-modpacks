@@ -1,0 +1,22 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Base 1000:N:-1447:218:-3998:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:vila da neve:V:60:64:-1408:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:digital:D:-726:64:-1524:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:giovani:G:-199:132:-4269:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:casa do 06g8:C:-318:64:806:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Neve:N:81:63:-1269:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:ota vila:O:-1278:79:-689:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:mansão:M:-4917:113:-7095:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:coisa estranha:C:5266:64:5063:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mineshaft:M:-628:12:-1537:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Stronghold:S:920:-78:-1130:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:vilinha:V:927:74:-1222:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Spawn:S:13:69:-7:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:End crystal:E:-449:-91:349:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:ametista:A:14:-105:114:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:rapaz:R:3:-3:188:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:LILITH:L:-666:66:-666:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Meteoro:M:-1317:81:-4093:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Base:B:-650:66:-1315:10:false:0:gui.xaero_default:false:0:0:false
