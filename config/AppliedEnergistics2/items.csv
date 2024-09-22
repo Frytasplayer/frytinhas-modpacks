@@ -10045,34 +10045,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
 tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:shard:0, Naga Scale Shard
 tconstruct:shard:0, Steeleaf Shard
 tconstruct:shard:0, Fiery Shard
@@ -11194,64 +11194,64 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Arrow Shaft Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Large Sword Blade Cast
 tconstruct:cast:0, Binding Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
 tconstruct:clay_cast:0, Binding Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -11926,6 +11926,43 @@ travelersbackpack:backpack_tank, Backpack Tank
 travelersbackpack:sleeping_bag_bottom, Sleeping bag
 travelersbackpack:hose_nozzle, Hose nozzle
 travelersbackpack:hose, Hose
+wallpapercraft:colored_paste:0, Red colored paste
+wallpapercraft:colored_paste:0, Yellow colored paste
+wallpapercraft:colored_paste:0, Green colored paste
+wallpapercraft:colored_paste:0, Cyan colored paste
+wallpapercraft:colored_paste:0, Blue colored paste
+wallpapercraft:colored_paste:0, Purple colored paste
+wallpapercraft:colored_paste:0, Brown colored paste
+wallpapercraft:colored_paste:0, Gray colored paste
+wallpapercraft:press_blank, Blank Pattern Press
+wallpapercraft:press_grass_cloth, Grass Cloth Pattern Press
+wallpapercraft:press_honeycomb, Honeycomb Pattern Press
+wallpapercraft:press_leafy, Leafy Pattern Press
+wallpapercraft:press_beehive_tile, Beehive Lantern Pattern Press
+wallpapercraft:press_stone_bricks_glass, item.wallpapercraft.press_stone_bricks_glass.name
+wallpapercraft:press_solid, Solid Pattern Press
+wallpapercraft:press_bricks, Bricks Pattern Press
+wallpapercraft:press_colored_bricks, Colored Bricks Pattern Press
+wallpapercraft:press_stone_lamp, Stone Lamp Pattern Press
+wallpapercraft:press_checkered_wool, Checkered Pattern Press
+wallpapercraft:press_dotted, Dotted Pattern Press
+wallpapercraft:press_diagonally_dotted, Diagonally Dotted Pattern Press
+wallpapercraft:press_clay, Clay Pattern Press
+wallpapercraft:press_aura_lamp, Aura Lamp Pattern Press
+wallpapercraft:press_fancy_tiles, Fancy Tiles Pattern Press
+wallpapercraft:press_floral, Floral Pattern Press
+wallpapercraft:press_damask, Damask Pattern Press
+wallpapercraft:press_jewel, Jewel Pattern Press
+wallpapercraft:press_rippled, Rippled Pattern Press
+wallpapercraft:press_stamp, Stamp Pattern Press
+wallpapercraft:press_frosted_glass, Frosted Glass Pattern Press
+wallpapercraft:press_tinted_glass, Tinted Glass Pattern Press
+wallpapercraft:press_textured_glass, Textured Glass Pattern Press
+wallpapercraft:press_striped, Striped Pattern Press
+wallpapercraft:press_stone_bricks, Stone Bricks Pattern Press
+wallpapercraft:press_wool, Wool Pattern Press
+wallpapercraft:press_wood_planks, Wood Planks Pattern Press
+wallpapercraft:press_removal, Pattern removal press
 wallpapercraft:solid_red:0, Solid Light Warm Pink
 wallpapercraft:solid_red:1, Solid Light Red
 wallpapercraft:solid_red:2, Solid Bright Red
@@ -14662,43 +14699,6 @@ wallpapercraft:stone_bricks_glass_2:9, Ipe Glass Stone Bricks
 wallpapercraft:stone_bricks_glass_2:10, Padauk Glass Stone Bricks
 wallpapercraft:stone_bricks_glass_2:11, Cocobolo Glass Stone Bricks
 wallpapercraft:stone_bricks_glass_2:12, Zebrawood Glass Stone Bricks
-wallpapercraft:colored_paste:0, Red colored paste
-wallpapercraft:colored_paste:0, Yellow colored paste
-wallpapercraft:colored_paste:0, Green colored paste
-wallpapercraft:colored_paste:0, Cyan colored paste
-wallpapercraft:colored_paste:0, Blue colored paste
-wallpapercraft:colored_paste:0, Purple colored paste
-wallpapercraft:colored_paste:0, Brown colored paste
-wallpapercraft:colored_paste:0, Gray colored paste
-wallpapercraft:press_blank, Blank Pattern Press
-wallpapercraft:press_grass_cloth, Grass Cloth Pattern Press
-wallpapercraft:press_honeycomb, Honeycomb Pattern Press
-wallpapercraft:press_leafy, Leafy Pattern Press
-wallpapercraft:press_beehive_tile, Beehive Lantern Pattern Press
-wallpapercraft:press_stone_bricks_glass, item.wallpapercraft.press_stone_bricks_glass.name
-wallpapercraft:press_solid, Solid Pattern Press
-wallpapercraft:press_bricks, Bricks Pattern Press
-wallpapercraft:press_colored_bricks, Colored Bricks Pattern Press
-wallpapercraft:press_stone_lamp, Stone Lamp Pattern Press
-wallpapercraft:press_checkered_wool, Checkered Pattern Press
-wallpapercraft:press_dotted, Dotted Pattern Press
-wallpapercraft:press_diagonally_dotted, Diagonally Dotted Pattern Press
-wallpapercraft:press_clay, Clay Pattern Press
-wallpapercraft:press_aura_lamp, Aura Lamp Pattern Press
-wallpapercraft:press_fancy_tiles, Fancy Tiles Pattern Press
-wallpapercraft:press_floral, Floral Pattern Press
-wallpapercraft:press_damask, Damask Pattern Press
-wallpapercraft:press_jewel, Jewel Pattern Press
-wallpapercraft:press_rippled, Rippled Pattern Press
-wallpapercraft:press_stamp, Stamp Pattern Press
-wallpapercraft:press_frosted_glass, Frosted Glass Pattern Press
-wallpapercraft:press_tinted_glass, Tinted Glass Pattern Press
-wallpapercraft:press_textured_glass, Textured Glass Pattern Press
-wallpapercraft:press_striped, Striped Pattern Press
-wallpapercraft:press_stone_bricks, Stone Bricks Pattern Press
-wallpapercraft:press_wool, Wool Pattern Press
-wallpapercraft:press_wood_planks, Wood Planks Pattern Press
-wallpapercraft:press_removal, Pattern removal press
 zerocore:debugtool, Debug Tool
 armourers_workshop:item.skin-template, item.skin-template.name
 armourers_workshop:item.skin, item.skin.name
