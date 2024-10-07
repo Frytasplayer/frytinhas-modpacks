@@ -39,7 +39,7 @@
 	#Items that count as torches for the offhand-torch tweak options.
 	torchItems = ["minecraft:torch", "minecraft:soul_torch", "tconstruct:stone_torch", "*tacz:"]
 	#Items that are allowed to place torches from the offhand if offhandTorchWithToolOnly is enabled.
-	torchTools = ["minecraft:wooden_pickaxe", "minecraft:stone_pickaxe", "minecraft:iron_pickaxe", "minecraft:golden_pickaxe", "minecraft:diamond_pickaxe", "minecraft:netherite_pickaxe", "tconstruct:pickaxe", "tconstruct:hammer", "mekanism:atomic_disassembler"]
+	torchTools = ["minecraft:wooden_pickaxe", "minecraft:stone_pickaxe", "minecraft:iron_pickaxe", "minecraft:golden_pickaxe", "minecraft:diamond_pickaxe", "minecraft:netherite_pickaxe", "tconstruct:pickaxe", "tconstruct:hammer", "mekanism:atomic_disassembler", "cyclic:emerald_pickaxe"]
 	#Items that count as weapons for the offhand-shield hiding tweak options.
 	shieldWeapons = ["tetra:modular_sword"]
 	#Items that count as shields for the offhand-shield hiding tweak options.
