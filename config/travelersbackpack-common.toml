@@ -17,9 +17,9 @@
 		invulnerableBackpack = true
 		toolSlotsAcceptSwords = true
 		#List of items that can be put in tool slots (Use registry names, for example: "minecraft:apple", "minecraft:flint")
-		toolSlotsAcceptableItems = []
+		toolSlotsAcceptableItems = ["constructionwands:diamond_wand"]
 		#Tool slots accept any item
-		toolSlotsAcceptEverything = true
+		toolSlotsAcceptEverything = false
 		#List of items that can't be put in backpack inventory (Use registry names, for example: "minecraft:apple", "minecraft:flint")
 		blacklistedItems = []
 		#Allows putting shulker boxes and other items with inventory in backpack
