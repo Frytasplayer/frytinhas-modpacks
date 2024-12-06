@@ -19,6 +19,7 @@
     "crop_progress": true,
     "command_block": true,
     "mob_growth": true,
+    "waxed": true,
     "harvest_tool.new_line": false,
     "entity_health.max_for_render": 40,
     "entity_health.show_fractions": false,
@@ -65,9 +66,6 @@
   },
   "mysticalagradditions": {
     "infused_farmland": true
-  },
-  "immersiveengineering": {
-    "multiblock_icon": true
   },
   "twilightforest": {
     "quest_ram_wool": true

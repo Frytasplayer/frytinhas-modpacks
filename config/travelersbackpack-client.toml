@@ -11,12 +11,10 @@
 	obtainTips = true
 	#Render tools in tool slots on the backpack, while worn
 	renderTools = true
-	#Render backpack if elytra is present
-	renderBackpackWithElytra = true
-	#Disable backpack rendering
-	disableBackpackRender = false
 	#Sends a message to the player on death with backpack coordinates
 	sendBackpackCoordinatesMessage = true
+	#Whether the backpack icon should be visible in player's inventory
+	showBackpackIconInInventory = true
 
 	#The position of the Overlay on the screen
 	[client.overlay]
