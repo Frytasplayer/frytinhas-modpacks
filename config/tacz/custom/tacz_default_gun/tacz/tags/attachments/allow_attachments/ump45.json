@@ -1,8 +1,6 @@
 [
-  "#tacz:scope_sight",
-  "#tacz:scope_scope",
+  "#tacz:scope",
   "#tacz:muzzle",
   "#tacz:light_extended_mag",
-  "#tacz:grip",
-  "#tacz:ammo_mod_no_he"
+  "#tacz:grip"
 ]
