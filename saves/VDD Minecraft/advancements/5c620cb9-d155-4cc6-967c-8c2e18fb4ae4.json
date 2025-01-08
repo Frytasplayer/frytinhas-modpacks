@@ -1,0 +1,27 @@
+{
+  "moguns:crayfish/root": {
+    "criteria": {
+      "tick": "2025-01-08 00:00:52 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:root": {
+    "criteria": {
+      "auto": "2025-01-08 00:00:52 -0300"
+    },
+    "done": true
+  },
+  "moguns:weapons/root": {
+    "criteria": {
+      "tick": "2025-01-08 00:00:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2025-01-08 00:00:52 -0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
