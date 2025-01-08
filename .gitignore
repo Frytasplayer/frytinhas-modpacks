@@ -1,3 +1,4 @@
+.curseclient
 .mixin.out/
 armourers_workshop/
 asm/
@@ -6,7 +7,9 @@ backups/
 crash-reports/
 fonts/
 llibrary/
+local/
 logs/
+modernfix/
 moreplayermodels/
 patchouli_books/
 tacz/
@@ -14,8 +17,8 @@ tacz_backup/
 tmp/
 xaero/
 XaeroWaypoints/
-XaeroWaypoints_BACKUP032021/
 XaeroWorldMap/
+minecraftinstance.json
 patchouli_data.json
 usercache.json
 usernamecache.json
