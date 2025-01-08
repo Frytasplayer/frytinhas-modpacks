@@ -139,6 +139,66 @@
     {
       "item": "create:copper_nugget",
       "emc": 0
+    },
+    {
+      "item": "minecraft:sugar_cane",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:bamboo",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:kelp",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:glowstone_dust",
+      "emc": 0
+    },
+    {
+      "item": "iceandfire:copper_ingot",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:stick",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:string",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:flint",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:gunpowder",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:wheat",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:clay_ball",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:slime_ball",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:bone",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:sugar",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:nether_wart",
+      "emc": 0
     }
   ]
 }
