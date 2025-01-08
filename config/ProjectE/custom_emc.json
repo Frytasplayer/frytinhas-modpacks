@@ -1,0 +1,144 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:air",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:coal",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:charcoal",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:diamond",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:emerald",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:copper_ingot",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_ingot",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:ender_eye",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:quartz",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:amethyst_shard",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:brick",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:ender_pearl",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:blaze_rod",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:nether_star",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:heart_of_the_sea",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:nautilus_shell",
+      "emc": 0
+    },
+    {
+      "item": "bigreactors:yellorium_ingot",
+      "emc": 0
+    },
+    {
+      "item": "bigreactors:cyanite_ingot",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:ingot_aluminum",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:ingot_lead",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:ingot_silver",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:ingot_nickel",
+      "emc": 0
+    },
+    {
+      "item": "immersiveengineering:ingot_uranium",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:ingot_bronze",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:redstone",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:ingot_refined_glowstone",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:ingot_osmium",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:ingot_tin",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:ingot_lead",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:ingot_uranium",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:iron_nugget",
+      "emc": 0
+    },
+    {
+      "item": "create:copper_nugget",
+      "emc": 0
+    }
+  ]
+}

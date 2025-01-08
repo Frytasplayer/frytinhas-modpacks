@@ -16,7 +16,7 @@ showWaypoints:true
 showIngameWaypoints:true
 displayRedstone:true
 deathpoints:true
-oldDeathpoints:true
+oldDeathpoints:false
 distance:1
 lockNorth:false
 zoom:0
@@ -25,7 +25,7 @@ chunkGrid:-1
 slimeChunks:false
 mapSafeMode:false
 minimapOpacity:100.0
-waypointsIngameIconScale:0
+waypointsIngameIconScale:1
 waypointsIngameDistanceScale:0
 waypointsIngameNameScale:0
 waypointsIngameCloseScale:1.0
