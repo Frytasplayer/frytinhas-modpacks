@@ -199,6 +199,10 @@
     {
       "item": "minecraft:nether_wart",
       "emc": 0
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "emc": 0
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+	id: "39d59da6-2d4a-4651-a607-7119c49cf7aa"
+	type: "party"
+	owner: "5c620cb9-d155-4cc6-967c-8c2e18fb4ae4"
+	ranks: {
+		5c620cb9-d155-4cc6-967c-8c2e18fb4ae4: "owner"
+		b1da6fbf-1955-4e69-bdef-bba7b3106f49: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Team 1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFC859"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736375021718L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"FrytasPlayer\"}]}" }
+		{ from: "5c620cb9-d155-4cc6-967c-8c2e18fb4ae4", date: 1736376547942L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"cherry_owe\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736376551744L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"cherry_owe\"}]}" }
+		{ from: "5c620cb9-d155-4cc6-967c-8c2e18fb4ae4", date: 1736376803868L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"cherry_owe\"}]}" }
+		{ from: "5c620cb9-d155-4cc6-967c-8c2e18fb4ae4", date: 1736376808083L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.demoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"cherry_owe\"}]}" }
+		{ from: "5c620cb9-d155-4cc6-967c-8c2e18fb4ae4", date: 1736376833245L, text: "{\"text\":\"sasdawd\"}" }
+	]
+	extra: { }
+}

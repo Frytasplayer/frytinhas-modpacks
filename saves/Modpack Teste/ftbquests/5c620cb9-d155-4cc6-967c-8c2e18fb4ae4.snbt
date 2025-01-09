@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "5c620cb9d1554cc6967c8c2e18fb4ae4"
+	name: "FrytasPlayer"
+	can_edit: true
+	lock: false
+	auto_pin: false
+	chapter_pinned: true
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

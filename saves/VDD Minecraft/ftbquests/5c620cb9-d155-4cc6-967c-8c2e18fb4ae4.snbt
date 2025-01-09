@@ -19,5 +19,5 @@
 		0000000000000001: 1736349003633L
 	}
 	claimed_rewards: { }
-	pinned_quests: ["0000000000000001"]
+	pinned_quests: [ ]
 }

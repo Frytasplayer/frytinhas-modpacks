@@ -1,0 +1,15 @@
+{
+	id: "5c620cb9-d155-4cc6-967c-8c2e18fb4ae4"
+	type: "player"
+	player_name: "FrytasPlayer"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "FrytasPlayer"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFA759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

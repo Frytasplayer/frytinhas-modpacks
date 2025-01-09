@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "b1da6fbf19554e69bdefbba7b3106f49"
+	name: "cherry_owe"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

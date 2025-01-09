@@ -1,0 +1,15 @@
+{
+	id: "b1da6fbf-1955-4e69-bdef-bba7b3106f49"
+	type: "player"
+	player_name: "cherry_owe"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "cherry_owe"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59C6FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -15,8 +15,8 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			x: -4.0d
-			y: -4.5d
+			x: -7.5d
+			y: -11.5d
 			dependencies: ["5836A5EF0940C4DA"]
 			id: "08BF0375E44774C5"
 			tasks: [{
@@ -27,16 +27,18 @@
 			rewards: [{
 				id: "15132EBCD858D8E7"
 				type: "item"
+				team_reward: true
 				item: {
 					id: "travelersbackpack:standard"
 					Count: 1b
 					tag: { }
 				}
+				only_one: true
 			}]
 		}
 		{
-			x: -5.5d
-			y: -4.5d
+			x: -9.0d
+			y: -11.5d
 			dependencies: ["019B8FDD3F2E034D"]
 			id: "5836A5EF0940C4DA"
 			tasks: [{
@@ -53,13 +55,13 @@
 			rewards: [{
 				id: "1E2DF41879F2F322"
 				type: "item"
+				team_reward: false
 				item: "minecraft:flint"
 			}]
 		}
 		{
-			x: -7.0d
-			y: -4.5d
-			dependencies: ["35F62CDDC3D7AF4F"]
+			x: -10.5d
+			y: -11.5d
 			id: "019B8FDD3F2E034D"
 			tasks: [{
 				id: "68926B6E0B14893A"
@@ -75,33 +77,13 @@
 			rewards: [{
 				id: "1FF1A331811F8021"
 				type: "item"
+				team_reward: false
 				item: "minecraft:water_bucket"
 			}]
 		}
 		{
-			x: -8.5d
-			y: -4.5d
-			id: "35F62CDDC3D7AF4F"
-			tasks: [{
-				id: "07303435DC282921"
-				type: "item"
-				item: {
-					id: "minecraft:stone_pickaxe"
-					Count: 1b
-					tag: {
-						Damage: 0
-					}
-				}
-			}]
-			rewards: [{
-				id: "20AB9BAC3E5729A5"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
-		}
-		{
-			x: -4.0d
-			y: -3.5d
+			x: -6.0d
+			y: -11.5d
 			dependencies: ["08BF0375E44774C5"]
 			id: "795EAEC34C34A18B"
 			tasks: [{
@@ -112,13 +94,15 @@
 			rewards: [{
 				id: "643F9AE732BFC908"
 				type: "item"
+				team_reward: false
 				item: "minecraft:ender_pearl"
 			}]
 		}
 		{
 			title: "Kill 5 Wither Skeletons"
-			x: -2.5d
-			y: -3.5d
+			x: -4.5d
+			y: -11.5d
+			shape: "rsquare"
 			dependencies: ["795EAEC34C34A18B"]
 			optional: true
 			id: "64C1E3B8610FDA14"
@@ -133,14 +117,15 @@
 			rewards: [{
 				id: "4CA4B38650945B57"
 				type: "item"
+				team_reward: false
 				item: "minecraft:netherite_scrap"
-				count: 4
 			}]
 		}
 		{
-			x: -2.5d
-			y: -2.5d
-			dependencies: ["795EAEC34C34A18B"]
+			x: -7.5d
+			y: -10.0d
+			dependencies: ["5836A5EF0940C4DA"]
+			optional: true
 			id: "12A9B745F9DC2E42"
 			tasks: [{
 				id: "27EB6BF024E38201"
@@ -152,6 +137,7 @@
 				{
 					id: "2CCBE45E855913C6"
 					type: "item"
+					team_reward: true
 					item: {
 						id: "minecraft:bow"
 						Count: 1b
@@ -163,6 +149,7 @@
 				{
 					id: "1B208A6AC31BA72A"
 					type: "item"
+					team_reward: true
 					item: "minecraft:arrow"
 					count: 16
 				}
@@ -170,8 +157,8 @@
 		}
 		{
 			title: "Find Structure: Stronghold"
-			x: -1.0d
-			y: -2.5d
+			x: -6.0d
+			y: -10.0d
 			dependencies: ["12A9B745F9DC2E42"]
 			id: "0EF39F132F208D40"
 			tasks: [{
@@ -183,13 +170,14 @@
 			rewards: [{
 				id: "158E362531FC5843"
 				type: "xp_levels"
+				team_reward: false
 				xp_levels: 10
 			}]
 		}
 		{
 			icon: "minecraft:end_stone"
-			x: -1.0d
-			y: -1.5d
+			x: -4.5d
+			y: -10.0d
 			dependencies: ["0EF39F132F208D40"]
 			id: "2035D302ED21B0FD"
 			tasks: [{
@@ -201,13 +189,14 @@
 			rewards: [{
 				id: "6B2A675759E20EEC"
 				type: "item"
+				team_reward: true
 				item: "minecraft:red_bed"
-				count: 3
+				count: 2
 			}]
 		}
 		{
-			x: 0.5d
-			y: -1.5d
+			x: -3.0d
+			y: -10.0d
 			dependencies: ["2035D302ED21B0FD"]
 			id: "4779FB9DA04A0A57"
 			tasks: [{
@@ -222,20 +211,22 @@
 				{
 					id: "01213870901E9BCF"
 					type: "item"
+					team_reward: true
 					item: "enderstorage:ender_chest"
 					count: 2
 				}
 				{
 					id: "4CAE02FC2B9BEAC5"
 					type: "item"
+					team_reward: true
 					item: "avaritia:neutron_pile"
 					count: 3
 				}
 			]
 		}
 		{
-			x: 2.0d
-			y: -1.5d
+			x: -1.5d
+			y: -10.0d
 			dependencies: ["4779FB9DA04A0A57"]
 			id: "31B1CC51027159D8"
 			tasks: [{
@@ -268,8 +259,8 @@
 			]
 		}
 		{
-			x: 2.0d
-			y: -0.5d
+			x: 0.0d
+			y: -10.0d
 			dependencies: ["31B1CC51027159D8"]
 			id: "4E28C6A6C30639DF"
 			tasks: [{
@@ -306,8 +297,9 @@
 					Damage: 0
 				}
 			}
-			x: 3.5d
-			y: -0.5d
+			x: 1.5d
+			y: -10.0d
+			shape: "rsquare"
 			dependencies: ["4E28C6A6C30639DF"]
 			optional: true
 			id: "0B22CE2021138D7C"
@@ -325,31 +317,106 @@
 			}]
 		}
 		{
-			title: "Find Ruined Citadel in End City"
-			x: 3.5d
-			y: 0.5d
-			dependencies: ["4E28C6A6C30639DF"]
-			id: "43711A5B01BFE93F"
+			title: "Start ProjectE"
+			x: -10.5d
+			y: -18.0d
+			shape: "rsquare"
+			optional: true
+			invisible: true
+			id: "76A0D0F71B83883D"
 			tasks: [{
-				id: "1520EC6CC31CF93A"
-				type: "structure"
-				icon: "cataclysm:void_core"
-				structure: "cataclysm:ruined_citadel"
-			}]
-			rewards: [{
-				id: "64C0BBBFD9E492E7"
-				type: "command"
-				title: "You Completed All Quests!"
-				icon: {
-					id: "createaddition:diamond_grit_sandpaper"
+				id: "0DD7AABB3DB09C44"
+				type: "item"
+				item: {
+					id: "projecte:philosophers_stone"
 					Count: 1b
-					tag: {
-						Damage: 0
+					tag: { }
+					ForgeCaps: {
+						Parent: { }
 					}
 				}
-				auto: "enabled"
-				command: "/say @p Completed Day 1-3 Quests!"
-				player_command: true
+			}]
+			rewards: [{
+				id: "7279584B2AADBB52"
+				type: "item"
+				team_reward: false
+				item: "projecte:interdiction_torch"
+			}]
+		}
+		{
+			title: "Start Draconic Evo"
+			x: -10.5d
+			y: -14.5d
+			shape: "rsquare"
+			min_required_dependencies: 1
+			optional: true
+			invisible: true
+			id: "3BD2ED16D1B18CC7"
+			tasks: [{
+				id: "6A6989BF86BE2E04"
+				type: "item"
+				item: "draconicevolution:draconium_dust"
+			}]
+			rewards: [{
+				id: "41170566435893BE"
+				type: "item"
+				item: "draconicevolution:info_tablet"
+			}]
+		}
+		{
+			x: -9.0d
+			y: -13.5d
+			dependencies: ["3BD2ED16D1B18CC7"]
+			id: "0A613D9D7B0E44F1"
+			tasks: [{
+				id: "5B888D6DFAEE5542"
+				type: "item"
+				item: "draconicevolution:generator"
+			}]
+		}
+		{
+			x: -9.0d
+			y: -15.5d
+			dependencies: ["3BD2ED16D1B18CC7"]
+			id: "47DAA5B807756BB2"
+			tasks: [{
+				id: "6275A590E9821D15"
+				type: "item"
+				item: "draconicevolution:draconium_core"
+			}]
+		}
+		{
+			title: "Get Alchemical Chest"
+			x: -9.0d
+			y: -18.0d
+			dependencies: ["76A0D0F71B83883D"]
+			id: "73D296A6776E54AF"
+			tasks: [{
+				id: "519210E680A18CC3"
+				type: "item"
+				item: "projecte:alchemical_chest"
+			}]
+			rewards: [{
+				id: "0FD9B6FE554896F2"
+				type: "item"
+				item: "projecte:black_alchemical_bag"
+			}]
+		}
+		{
+			title: "Get Energy Condenser"
+			x: -7.5d
+			y: -18.0d
+			dependencies: ["73D296A6776E54AF"]
+			id: "1CAAA3EC4DAFF2F8"
+			tasks: [{
+				id: "649F5086F171516C"
+				type: "item"
+				item: "projecte:condenser_mk1"
+			}]
+			rewards: [{
+				id: "19063469DA822AAA"
+				type: "item"
+				item: "projecte:transmutation_table"
 			}]
 		}
 	]
