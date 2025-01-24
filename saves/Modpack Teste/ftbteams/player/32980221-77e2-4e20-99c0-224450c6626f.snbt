@@ -1,0 +1,17 @@
+{
+	id: "32980221-77e2-4e20-99c0-224450c6626f"
+	type: "player"
+	player_name: "Breno109"
+	ranks: {
+		32980221-77e2-4e20-99c0-224450c6626f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Breno109"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF598B"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

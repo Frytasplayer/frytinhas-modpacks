@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "3298022177e24e2099c0224450c6626f"
+	name: "Breno109"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

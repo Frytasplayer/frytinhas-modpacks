@@ -322,7 +322,6 @@
 			y: -18.0d
 			shape: "rsquare"
 			optional: true
-			invisible: true
 			id: "76A0D0F71B83883D"
 			tasks: [{
 				id: "0DD7AABB3DB09C44"
@@ -350,7 +349,6 @@
 			shape: "rsquare"
 			min_required_dependencies: 1
 			optional: true
-			invisible: true
 			id: "3BD2ED16D1B18CC7"
 			tasks: [{
 				id: "6A6989BF86BE2E04"
@@ -367,6 +365,7 @@
 			x: -9.0d
 			y: -13.5d
 			dependencies: ["3BD2ED16D1B18CC7"]
+			hide: true
 			id: "0A613D9D7B0E44F1"
 			tasks: [{
 				id: "5B888D6DFAEE5542"
@@ -378,6 +377,7 @@
 			x: -9.0d
 			y: -15.5d
 			dependencies: ["3BD2ED16D1B18CC7"]
+			hide: true
 			id: "47DAA5B807756BB2"
 			tasks: [{
 				id: "6275A590E9821D15"
@@ -390,6 +390,7 @@
 			x: -9.0d
 			y: -18.0d
 			dependencies: ["76A0D0F71B83883D"]
+			hide: true
 			id: "73D296A6776E54AF"
 			tasks: [{
 				id: "519210E680A18CC3"
@@ -418,6 +419,319 @@
 				type: "item"
 				item: "projecte:transmutation_table"
 			}]
+		}
+		{
+			title: "Go to Twilight Forest"
+			x: -10.5d
+			y: -6.0d
+			shape: "rsquare"
+			hide_dependency_lines: true
+			dependencies: ["5836A5EF0940C4DA"]
+			optional: true
+			id: "3AB65E31405106B1"
+			tasks: [{
+				id: "6D578A7B1636C481"
+				type: "dimension"
+				icon: "twilightforest:twilight_portal_miniature_structure"
+				dimension: "twilightforest:twilight_forest"
+			}]
+			rewards: [{
+				id: "6CAD27B750B356D0"
+				type: "item"
+				team_reward: true
+				item: "twilightforest:maze_map_focus"
+			}]
+		}
+		{
+			x: -9.0d
+			y: -6.0d
+			dependencies: ["3AB65E31405106B1"]
+			hide: true
+			id: "64E59B74423F5E39"
+			tasks: [{
+				id: "3DBE068B38FB12B6"
+				type: "kill"
+				icon: "twilightforest:naga_trophy"
+				entity: "twilightforest:naga"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "22C8E8F4AD5914F4"
+					type: "item"
+					team_reward: true
+					item: {
+						id: "twilightforest:ironwood_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								lvl: 1s
+								id: "minecraft:knockback"
+							}]
+						}
+					}
+				}
+				{
+					id: "7C1D52AFD8D8509A"
+					type: "item"
+					item: "twilightforest:naga_courtyard_miniature_structure"
+				}
+			]
+		}
+		{
+			x: -7.5d
+			y: -6.0d
+			dependencies: ["64E59B74423F5E39"]
+			id: "7298FCB622F6C1E4"
+			tasks: [{
+				id: "1E5480673407F0E5"
+				type: "kill"
+				icon: "twilightforest:lich_trophy"
+				entity: "twilightforest:lich"
+				value: 1L
+			}]
+			rewards: [
+				{
+					id: "15EA3AA542A1B031"
+					type: "xp_levels"
+					team_reward: true
+					xp_levels: 10
+				}
+				{
+					id: "64B13CDC1527BD50"
+					type: "item"
+					team_reward: false
+					item: "twilightforest:lich_tower_miniature_structure"
+				}
+			]
+		}
+		{
+			x: -6.0d
+			y: -8.0d
+			dependencies: ["7298FCB622F6C1E4"]
+			id: "4966119479B30713"
+			tasks: [{
+				id: "2AA934643762274C"
+				type: "kill"
+				icon: "twilightforest:knight_phantom_trophy"
+				entity: "twilightforest:knight_phantom"
+				value: 1L
+			}]
+			rewards: [{
+				id: "435C85B7BA5A7B8A"
+				type: "item"
+				item: {
+					id: "twilightforest:knightmetal_leggings"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: -6.0d
+			dependencies: ["7298FCB622F6C1E4"]
+			id: "2DF063F97282607F"
+			tasks: [{
+				id: "4E3118BDAF190BD8"
+				type: "kill"
+				icon: "twilightforest:alpha_yeti_trophy"
+				entity: "twilightforest:alpha_yeti"
+				value: 1L
+			}]
+			rewards: [{
+				id: "2AB73ECA7F2B5F9D"
+				type: "item"
+				team_reward: true
+				item: {
+					id: "twilightforest:yeti_boots"
+					Count: 1b
+					tag: {
+						Damage: 0
+						Enchantments: [
+							{
+								lvl: 2s
+								id: "minecraft:protection"
+							}
+							{
+								lvl: 4s
+								id: "minecraft:feather_falling"
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: -6.0d
+			y: -4.0d
+			dependencies: ["7298FCB622F6C1E4"]
+			id: "20E5EE4CB0F93659"
+			tasks: [{
+				id: "579CF71C201D2CEA"
+				type: "kill"
+				icon: "twilightforest:minoshroom_trophy"
+				entity: "twilightforest:minoshroom"
+				value: 1L
+			}]
+			rewards: [{
+				id: "479D50816B1FA234"
+				type: "item"
+				item: {
+					id: "twilightforest:diamond_minotaur_axe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -4.0d
+			y: -8.0d
+			dependencies: [
+				"2DF063F97282607F"
+				"4966119479B30713"
+			]
+			id: "619E709F9E42E887"
+			tasks: [{
+				id: "4635CB6E71EE0ABB"
+				type: "kill"
+				icon: "twilightforest:ur_ghast_trophy"
+				entity: "twilightforest:ur_ghast"
+				value: 1L
+			}]
+		}
+		{
+			x: -4.0d
+			y: -4.0d
+			dependencies: [
+				"2DF063F97282607F"
+				"20E5EE4CB0F93659"
+			]
+			id: "3634DF7E3D2687F2"
+			tasks: [{
+				id: "4521114F729757BA"
+				type: "kill"
+				icon: "twilightforest:hydra_trophy"
+				entity: "iceandfire:hydra"
+				value: 1L
+			}]
+			rewards: [{
+				id: "05A32250F63AACB4"
+				type: "item"
+				team_reward: true
+				item: "twilightforest:hydra_chop"
+				count: 30
+			}]
+		}
+		{
+			x: -4.0d
+			y: -6.0d
+			dependencies: [
+				"4966119479B30713"
+				"2DF063F97282607F"
+				"20E5EE4CB0F93659"
+			]
+			id: "1B70790E4298973D"
+			tasks: [{
+				id: "550F0804B8BFE17F"
+				type: "kill"
+				icon: "twilightforest:snow_queen_trophy"
+				entity: "twilightforest:snow_queen"
+				value: 1L
+			}]
+		}
+		{
+			x: -2.0d
+			y: -7.0d
+			dependencies: [
+				"619E709F9E42E887"
+				"1B70790E4298973D"
+			]
+			id: "16D9CE569364AAEA"
+			tasks: [{
+				id: "4F586E698D721703"
+				type: "kill"
+				icon: {
+					id: "twilightforest:giant_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "twilightforest:armored_giant"
+				value: 1L
+			}]
+		}
+		{
+			x: -2.0d
+			y: -5.0d
+			dependencies: [
+				"3634DF7E3D2687F2"
+				"1B70790E4298973D"
+			]
+			id: "52EB1B9C062EC429"
+			tasks: [{
+				id: "791443E6058F1503"
+				type: "kill"
+				icon: {
+					id: "twilightforest:giant_pickaxe"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "twilightforest:giant_miner"
+				value: 1L
+			}]
+		}
+		{
+			title: "The Twilight Forest"
+			x: -0.5d
+			y: -6.0d
+			dependencies: [
+				"16D9CE569364AAEA"
+				"52EB1B9C062EC429"
+			]
+			id: "278AC8F84A389F0E"
+			tasks: [{
+				id: "2E63889C128CB2D6"
+				type: "structure"
+				icon: "twilightforest:twilight_portal_miniature_structure"
+				structure: "twilightforest:final_castle"
+			}]
+			rewards: [
+				{
+					id: "5A01981A2626B1E7"
+					type: "xp_levels"
+					team_reward: true
+					xp_levels: 50
+				}
+				{
+					id: "7A35F9083F3F9229"
+					type: "choice"
+					icon: {
+						id: "twilightforest:fiery_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					team_reward: true
+					exclude_from_claim_all: true
+					table_id: 1855573323372003401L
+				}
+				{
+					id: "6742026EB80C6ABC"
+					type: "item"
+					team_reward: true
+					item: "avaritia:crystal_matrix_ingot"
+				}
+			]
 		}
 	]
 	quest_links: [ ]

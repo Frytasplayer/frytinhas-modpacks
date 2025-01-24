@@ -1,0 +1,45 @@
+{
+	id: "19C0521B3A478049"
+	order_index: 1
+	title: "Fiery Armor"
+	icon: "twilightforest:fiery_ingot"
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "twilightforest:fiery_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "twilightforest:fiery_chestplate"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "twilightforest:fiery_leggings"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "twilightforest:fiery_boots"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+}

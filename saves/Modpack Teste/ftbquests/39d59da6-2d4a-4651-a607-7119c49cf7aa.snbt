@@ -2,7 +2,7 @@
 	version: 1
 	uuid: "39d59da62d4a4651a6077119c49cf7aa"
 	name: "Team 1"
-	can_edit: false
+	can_edit: true
 	lock: false
 	auto_pin: false
 	chapter_pinned: true

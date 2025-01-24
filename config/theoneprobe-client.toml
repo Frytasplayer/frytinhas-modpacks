@@ -45,7 +45,7 @@ showAnimalOwnerSetting = "EXTENDED"
 #Show horse stats setting (0 = not, 1 = always, 2 = sneak)
 showHorseStatSetting = "EXTENDED"
 #Reveal monster eggs (0 = not, 1 = always, 2 = sneak)
-showSilverfish = "NOT"
+showSilverfish = "NORMAL"
 #The distance to the left side of the screen. Use -1 if you don't want to set this
 #Range: -1 ~ 10000
 boxLeftX = 5
