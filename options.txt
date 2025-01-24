@@ -38,7 +38,7 @@ biomeBlendRadius:2
 renderClouds:true
 resourcePacks:["vanilla","tacz_pack/tacz","mod_resources"]
 incompatibleResourcePacks:[]
-lastServer:26.11.18.175:52368
+lastServer:26.38.25.74:51746
 lang:en_us
 soundDevice:OpenAL Soft on Alto-falantes (fifine Headset)
 chatVisibility:0
@@ -304,7 +304,7 @@ key_key.tacz.crawl.desc:key.keyboard.c
 key_key.tacz.refit.desc:key.keyboard.o
 key_key.tacz.zoom.desc:key.keyboard.v
 key_key.tacz.melee.desc:key.keyboard.caps.lock
-key_key.tacz.open_config.desc:key.keyboard.t:ALT
+key_key.tacz.open_config.desc:key.keyboard.t:CONTROL
 key_key.projecte.helmet_toggle:key.keyboard.x:SHIFT
 key_key.projecte.boots_toggle:key.keyboard.x
 key_key.projecte.charge:key.keyboard.v
