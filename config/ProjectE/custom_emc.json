@@ -162,7 +162,7 @@
     },
     {
       "item": "minecraft:stick",
-      "emc": 0
+      "emc": 2
     },
     {
       "item": "minecraft:string",
@@ -227,6 +227,30 @@
     {
       "item": "thermal:bronze_ingot",
       "emc": 0
+    },
+    {
+      "item": "inventorypets:nugget_obsidian",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:dust_sulfur",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:dust_obsidian",
+      "emc": 0
+    },
+    {
+      "item": "mekanism:dust_fluorite",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:feather",
+      "emc": 0
+    },
+    {
+      "item": "minecraft:paper",
+      "emc": 1
     }
   ]
 }
