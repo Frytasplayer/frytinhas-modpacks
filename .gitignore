@@ -1,0 +1,26 @@
+.curseclient
+.mixin.out/
+armourers_workshop/
+asm/
+assets/
+backups/
+crash-reports/
+fonts/
+llibrary/
+local/
+logs/
+modernfix/
+moreplayermodels/
+patchouli_books/
+saves/
+tacz/
+tacz_backup/
+tmp/
+xaero/
+XaeroWaypoints/
+XaeroWorldMap/
+minecraftinstance.json
+patchouli_data.json
+usercache.json
+usernamecache.json
+/saves/VDD Minecraft
