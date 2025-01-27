@@ -172,7 +172,7 @@
 			rewards: [{
 				id: "158E362531FC5843"
 				type: "xp_levels"
-				team_reward: false
+				team_reward: true
 				xp_levels: 10
 			}]
 		}
@@ -440,7 +440,7 @@
 			rewards: [{
 				id: "6CAD27B750B356D0"
 				type: "item"
-				team_reward: true
+				team_reward: false
 				item: "twilightforest:maze_map_focus"
 			}]
 		}
@@ -523,6 +523,8 @@
 			rewards: [{
 				id: "435C85B7BA5A7B8A"
 				type: "item"
+				team_reward: true
+				auto: "disabled"
 				item: {
 					id: "twilightforest:knightmetal_leggings"
 					Count: 1b
@@ -582,6 +584,7 @@
 			rewards: [{
 				id: "479D50816B1FA234"
 				type: "item"
+				team_reward: true
 				item: {
 					id: "twilightforest:diamond_minotaur_axe"
 					Count: 1b
@@ -605,6 +608,22 @@
 				icon: "twilightforest:ur_ghast_trophy"
 				entity: "twilightforest:ur_ghast"
 				value: 1L
+			}]
+			rewards: [{
+				id: "7319CA173FCE1B54"
+				type: "item"
+				team_reward: true
+				item: {
+					id: "twilightforest:steeleaf_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							lvl: 2s
+							id: "minecraft:projectile_protection"
+						}]
+					}
+				}
 			}]
 		}
 		{
@@ -645,6 +664,22 @@
 				icon: "twilightforest:snow_queen_trophy"
 				entity: "twilightforest:snow_queen"
 				value: 1L
+			}]
+			rewards: [{
+				id: "68E4C37ADBFEDA11"
+				type: "item"
+				team_reward: true
+				item: {
+					id: "twilightforest:yeti_chestplate"
+					Count: 1b
+					tag: {
+						Damage: 0
+						Enchantments: [{
+							lvl: 2s
+							id: "minecraft:protection"
+						}]
+					}
+				}
 			}]
 		}
 		{

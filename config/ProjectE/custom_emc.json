@@ -66,7 +66,7 @@
     },
     {
       "item": "minecraft:nether_star",
-      "emc": 0
+      "emc": 131072
     },
     {
       "item": "minecraft:heart_of_the_sea",
@@ -185,10 +185,6 @@
       "emc": 0
     },
     {
-      "item": "minecraft:slime_ball",
-      "emc": 0
-    },
-    {
       "item": "minecraft:bone",
       "emc": 0
     },
@@ -251,6 +247,10 @@
     {
       "item": "minecraft:paper",
       "emc": 1
+    },
+    {
+      "item": "mekanism:fluorite_gem",
+      "emc": 0
     }
   ]
 }
