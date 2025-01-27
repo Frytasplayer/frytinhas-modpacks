@@ -109,6 +109,7 @@ key_key.tac.inspect:key.keyboard.h
 key_key.tac.sight_switch:key.keyboard.v
 key_key.tac.activeSideRail:key.keyboard.b:SHIFT
 key_key.tac.more_info_hold:key.keyboard.left.shift
+key_key.entityculling.toggle:key.keyboard.unknown
 key_CharacterScreen:key.keyboard.f12
 key_MPM 1:key.keyboard.keypad.1
 key_MPM 2:key.keyboard.keypad.2
@@ -116,6 +117,8 @@ key_MPM 3:key.keyboard.keypad.3
 key_MPM 4:key.keyboard.keypad.4
 key_MPM 5:key.keyboard.keypad.5
 key_MPM Camera:key.keyboard.left.control
+key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
+key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.cgm.reload:key.keyboard.r
 key_key.cgm.unload:key.keyboard.u
 key_key.cgm.attachments:key.keyboard.c
@@ -141,6 +144,8 @@ key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
+key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
+key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_key.securitycraft.cameraZoomIn:key.keyboard.equal
 key_key.securitycraft.cameraZoomOut:key.keyboard.minus
