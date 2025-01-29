@@ -82,7 +82,7 @@
 		#Attempt to show bullet trails from your own gun, currently ALPHA, doesn't map to the barrel of weapons and maybe distracting.
 		showFirstPersonBulletTrails = true
 		#The custom crosshair to use for weapons. Go to (Options > Controls > Mouse Settings > Crosshair) in game to change this!
-		crosshair = "minecraft:default"
+		crosshair = "tac:t"
 		#Choose to see any bullet trails, trails by you or any other player / bot will not appear. Helps with Shader compatability.
 		showBulletTrails = true
 		#True if you want hitmarkers to appear, both in hipfire and optics when hitting an entity.

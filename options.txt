@@ -33,7 +33,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources"]
+resourcePacks:["vanilla","mod_resources","programer_art"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -64,7 +64,7 @@ rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 syncChunkWrites:true
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
@@ -110,54 +110,26 @@ key_key.tac.sight_switch:key.keyboard.v
 key_key.tac.activeSideRail:key.keyboard.b:SHIFT
 key_key.tac.more_info_hold:key.keyboard.left.shift
 key_key.entityculling.toggle:key.keyboard.unknown
-key_CharacterScreen:key.keyboard.f12
-key_MPM 1:key.keyboard.keypad.1
-key_MPM 2:key.keyboard.keypad.2
-key_MPM 3:key.keyboard.keypad.3
-key_MPM 4:key.keyboard.keypad.4
-key_MPM 5:key.keyboard.keypad.5
-key_MPM Camera:key.keyboard.left.control
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
-key_key.cgm.reload:key.keyboard.r
-key_key.cgm.unload:key.keyboard.u
-key_key.cgm.attachments:key.keyboard.c
 key_key.curios.open.desc:key.keyboard.unknown
-key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
-key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
-key_gui.xaero_toggle_slime:key.keyboard.unknown
-key_gui.xaero_toggle_grid:key.keyboard.unknown
-key_gui.xaero_toggle_waypoints:key.keyboard.unknown
-key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
-key_gui.xaero_toggle_map:key.keyboard.unknown
-key_gui.xaero_enlarge_map:key.keyboard.grave.accent
-key_gui.xaero_waypoints_key:key.keyboard.u
-key_gui.xaero_zoom_in:key.keyboard.unknown
-key_gui.xaero_zoom_out:key.keyboard.unknown
-key_gui.xaero_new_waypoint:key.keyboard.b
-key_gui.xaero_display_all_sets:key.keyboard.unknown
-key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
-key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
-key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
-key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
-key_gui.xaero_alternative_list_players:key.keyboard.unknown
-key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown
-key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
-key_gui.xaero_minimap_settings:key.keyboard.y
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
-key_cos.key.opencosarmorinventory:key.keyboard.unknown
+key_key.corpse.death_history:key.keyboard.u
 key_key.securitycraft.cameraZoomIn:key.keyboard.equal
 key_key.securitycraft.cameraZoomOut:key.keyboard.minus
 key_key.securitycraft.cameraEmitRedstone:key.keyboard.r
 key_key.securitycraft.cameraActivateNightVision:key.keyboard.n
 key_key.securitycraft.setDefaultViewingDirection:key.keyboard.u
-key_gui.xaero_open_map:key.keyboard.m
-key_gui.xaero_open_settings:key.keyboard.right.bracket
-key_gui.xaero_map_zoom_in:key.keyboard.unknown
-key_gui.xaero_map_zoom_out:key.keyboard.unknown
-key_gui.xaero_quick_confirm:key.keyboard.right.shift
-key_gui.xaero_toggle_dimension:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.j
+key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
+key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.configured.open_mod_list:key.keyboard.backslash
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
