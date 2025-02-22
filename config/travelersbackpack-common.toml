@@ -35,7 +35,7 @@
 		#Allows to use only equipped backpack
 		allowOnlyEquippedBackpack = false
 		#Tool slots accept any item
-		toolSlotsAcceptEverything = false
+		toolSlotsAcceptEverything = true
 
 		#Leather Tier Backpack Settings
 		[common.backpackSettings.leatherTierBackpack]
